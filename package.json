@@ -1,0 +1,15 @@
+{
+  "name": "swap-diag",
+  "version": "1.0.0",
+  "description": "Atomic swap diagnostics tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liquality",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "qs": "^6.7.0"
+  }
+}
